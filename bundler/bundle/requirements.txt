@@ -2,13 +2,13 @@
 # When modifying dependencies, update the credit in /app/license_notice.py
 
 # Direct dependencies.
-ansible==2.10.7
+ansible==10.5.0
 
 # Indirect dependencies.
 ansible-base==2.10.17
 cffi==1.15.1
-cryptography==37.0.4
-Jinja2==3.1.2
+cryptography==43.0.1
+Jinja2==3.1.4
 MarkupSafe==2.1.1
 packaging==21.3
 pycparser==2.21
